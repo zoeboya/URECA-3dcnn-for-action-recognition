@@ -1,2 +1,2 @@
 # URECA-PREP
-study material for preparation of ureca project
+study material for ureca project
